@@ -1,4 +1,4 @@
-import { sum } from '../src/sum'
+import { sum } from '../sum'
 
 describe('index', () => {
   describe('sum', () => {
