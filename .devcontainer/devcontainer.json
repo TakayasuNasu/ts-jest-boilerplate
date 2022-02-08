@@ -6,7 +6,8 @@
   "extensions": [
     "esbenp.prettier-vscode",
     "oderwat.indent-rainbow",
-    "arjun.swagger-viewer"
+    "arjun.swagger-viewer",
+    "jpoissonnier.vscode-styled-components"
   ],
   "shutdownAction": "none"
 }
